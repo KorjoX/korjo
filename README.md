@@ -1,0 +1,2 @@
+# korjo
+Just learn
